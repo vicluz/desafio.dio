@@ -12,4 +12,6 @@ Termino da aula Git/github: relembrando algumas coisinhas
 
 
 
-Começando modulo II do curso 
+Começando modulo II do curso
+
+Finalizando os estudos do dia de hoje 
